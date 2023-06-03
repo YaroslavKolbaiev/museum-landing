@@ -1,6 +1,6 @@
 # Museum landing page
 
-[LIVE DEMO]()
+[LIVE DEMO](https://yaroslavkolbaiev.github.io/museum-landing/)
 
 # About the projects
 
